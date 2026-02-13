@@ -12,7 +12,7 @@ This project contains a Jupyter Notebook `task.ipynb` with solutions to various 
 
 2.  Install dependencies:
     ```bash
-    pip install pandas jupyter nltk scikit-learn
+    pip install -r requirements.txt
     ```
 
 ## Running the Exercises
