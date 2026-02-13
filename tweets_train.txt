@@ -1,0 +1,10 @@
+This is a dummy tweet about something positive.
+I hate this, it is really bad and negative.
+The weather is okay today, nothing special.
+Another positive example for the dataset.
+This is strictly a neutral statement.
+Terrible experience, would not recommend.
+Joy and happiness are great things.
+I am very angry about the service.
+Just a random sentence with no sentiment.
+Final tweet to make it ten lines.
